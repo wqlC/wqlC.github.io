@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/01/16/butufyTest/</loc>
+    <loc>https://wqlc.github.io/link/index.html</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://wqlc.github.io/2021/01/16/butufyTest/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/01/16/test1/</loc>
+    <loc>https://wqlc.github.io/tags/index.html</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/01/16/Test/</loc>
+    <loc>https://wqlc.github.io/2021/01/16/test1/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://wqlc.github.io/2021/01/16/Test/</loc>
+    
+    <lastmod>2021-01-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wqlc.github.io/categories/index.html</loc>
     
     <lastmod>2021-01-16</lastmod>
     
@@ -38,7 +45,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://wqlc.github.io/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,14 +53,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/Tag1/</loc>
+    <loc>https://wqlc.github.io/tags/hhhh/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hhhh/</loc>
+    <loc>https://wqlc.github.io/tags/Tag1/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +69,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/cate/</loc>
+    <loc>https://wqlc.github.io/categories/cate/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

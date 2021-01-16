@@ -3,11 +3,11 @@
   <title>可达龙~嗷呜</title>
   
   <subtitle>行道迟迟，载渴载饥。我心伤悲，莫知我哀！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wqlc.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wqlc.github.io/"/>
   <updated>2021-01-16T08:39:54.309Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wqlc.github.io/</id>
   
   <author>
     <name>youwu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>butufyTest</title>
-    <link href="http://example.com/2021/01/16/butufyTest/"/>
-    <id>http://example.com/2021/01/16/butufyTest/</id>
+    <link href="https://wqlc.github.io/2021/01/16/butufyTest/"/>
+    <id>https://wqlc.github.io/2021/01/16/butufyTest/</id>
     <published>2021-01-16T08:38:53.000Z</published>
     <updated>2021-01-16T08:39:54.309Z</updated>
     
@@ -37,31 +37,31 @@
     
     
     
-    <category term="hhhh" scheme="http://example.com/tags/hhhh/"/>
+    <category term="hhhh" scheme="https://wqlc.github.io/tags/hhhh/"/>
     
   </entry>
   
   <entry>
     <title>test1</title>
-    <link href="http://example.com/2021/01/16/test1/"/>
-    <id>http://example.com/2021/01/16/test1/</id>
+    <link href="https://wqlc.github.io/2021/01/16/test1/"/>
+    <id>https://wqlc.github.io/2021/01/16/test1/</id>
     <published>2021-01-16T06:51:38.000Z</published>
     <updated>2021-01-16T07:10:20.081Z</updated>
     
     
     
     
-    <category term="cate" scheme="http://example.com/categories/cate/"/>
+    <category term="cate" scheme="https://wqlc.github.io/categories/cate/"/>
     
     
-    <category term="Tag1" scheme="http://example.com/tags/Tag1/"/>
+    <category term="Tag1" scheme="https://wqlc.github.io/tags/Tag1/"/>
     
   </entry>
   
   <entry>
     <title>Test</title>
-    <link href="http://example.com/2021/01/16/Test/"/>
-    <id>http://example.com/2021/01/16/Test/</id>
+    <link href="https://wqlc.github.io/2021/01/16/Test/"/>
+    <id>https://wqlc.github.io/2021/01/16/Test/</id>
     <published>2021-01-16T06:31:34.000Z</published>
     <updated>2021-01-16T07:10:18.098Z</updated>
     
@@ -69,7 +69,7 @@
     
     
     
-    <category term="Tag1" scheme="http://example.com/tags/Tag1/"/>
+    <category term="Tag1" scheme="https://wqlc.github.io/tags/Tag1/"/>
     
   </entry>
   
