@@ -17,6 +17,7 @@ menu:
     - 照片 || /Gallery/ || fas fa-images
   友链: /link/ || fas fa-link
   About: /about/ || fas fa-heart
+  todo: /todo/ || fa fa-list-alt
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
