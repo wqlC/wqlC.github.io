@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>可达龙~嗷呜</title>
+  <title>开啊福瑞</title>
   
-  <subtitle>行道迟迟，载渴载饥。我心伤悲，莫知我哀！</subtitle>
+  <subtitle>carefree</subtitle>
   <link href="https://wqlc.github.io/atom.xml" rel="self"/>
   
   <link href="https://wqlc.github.io/"/>
-  <updated>2021-01-16T08:39:54.309Z</updated>
+  <updated>2021-01-17T12:54:28.928Z</updated>
   <id>https://wqlc.github.io/</id>
   
   <author>
@@ -17,21 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用cdn加速</title>
+    <link href="https://wqlc.github.io/2021/01/17/%E4%BD%BF%E7%94%A8cdn%E5%8A%A0%E9%80%9F/"/>
+    <id>https://wqlc.github.io/2021/01/17/%E4%BD%BF%E7%94%A8cdn%E5%8A%A0%E9%80%9F/</id>
+    <published>2021-01-17T03:45:52.000Z</published>
+    <updated>2021-01-17T12:54:28.928Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>在使用github + hexo搭建自己的博客的时候，因为国内的网络环境，图片加载可能非常缓慢。因此我们可以使用免费的cdn来加速</p></blockquote><p>要搭建自己的博客，一个超级简单而且免费的方法就是是用github+hexo，而且可以随意设置。当然国内</p><p>参考文章：<br><a href="https://www.jsdelivr.com/">https://www.jsdelivr.com/</a><br><a href="https://www.cnblogs.com/lfri/p/12212878.html">https://www.cnblogs.com/lfri/p/12212878.html</a><br><a href="https://juejin.cn/post/6844904095807979534">https://juejin.cn/post/6844904095807979534</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="cdn" scheme="https://wqlc.github.io/source/tags/cdn/"/>
+    
+    <category term="工具" scheme="https://wqlc.github.io/source/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>butufyTest</title>
     <link href="https://wqlc.github.io/2021/01/16/butufyTest/"/>
     <id>https://wqlc.github.io/2021/01/16/butufyTest/</id>
     <published>2021-01-16T08:38:53.000Z</published>
     <updated>2021-01-16T08:39:54.309Z</updated>
     
-    <content type="html"><![CDATA[<p>你好</p><p>我号</p><p>大家好</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你好</p><p>我号</p><p>大家好</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;你好&lt;/p&gt;
-&lt;p&gt;我号&lt;/p&gt;
-&lt;p&gt;大家好&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
@@ -48,6 +69,13 @@
     <published>2021-01-16T06:51:38.000Z</published>
     <updated>2021-01-16T07:10:20.081Z</updated>
     
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
     
     
     
@@ -65,6 +93,13 @@
     <published>2021-01-16T06:31:34.000Z</published>
     <updated>2021-01-16T07:10:18.098Z</updated>
     
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
     
     
     
