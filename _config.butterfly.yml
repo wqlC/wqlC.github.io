@@ -81,12 +81,12 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /img/favicon.png
+favicon: /img/avatar.gif
 
 # Avatar (頭像)
 avatar:
-  img: /img/avatar.svg
-  effect: false
+  img: /img/avatar.gif
+  effect: true
 
 # The banner image of home page
 index_img: /img/index.svg
