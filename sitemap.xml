@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wqlc.github.io/2021/02/02/git%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://wqlc.github.io/2021/02/02/nodejs%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2021-02-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wqlc.github.io/2021/02/02/nodejs%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://wqlc.github.io/2021/02/01/index/</loc>
+    
+    <lastmod>2021-02-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wqlc.github.io/2021/02/02/git%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2021-02-02</lastmod>
     
@@ -19,13 +26,6 @@
     <loc>https://wqlc.github.io/2021/02/01/%E4%BD%BF%E7%94%A8github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-02-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wqlc.github.io/2021/02/01/index/</loc>
-    
-    <lastmod>2021-02-01</lastmod>
     
   </url>
   
