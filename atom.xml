@@ -6,7 +6,7 @@
   <link href="https://wqlc.github.io/atom.xml" rel="self"/>
   
   <link href="https://wqlc.github.io/"/>
-  <updated>2021-02-01T02:18:35.060Z</updated>
+  <updated>2021-02-02T03:10:41.307Z</updated>
   <id>https://wqlc.github.io/</id>
   
   <author>
@@ -15,6 +15,90 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nodejs安装及相关命令</title>
+    <link href="https://wqlc.github.io/2021/02/02/nodejs%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/"/>
+    <id>https://wqlc.github.io/2021/02/02/nodejs%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</id>
+    <published>2021-02-02T03:10:41.000Z</published>
+    <updated>2021-02-02T03:10:41.307Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git安装及相关命令</title>
+    <link href="https://wqlc.github.io/2021/02/02/git%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/"/>
+    <id>https://wqlc.github.io/2021/02/02/git%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4/</id>
+    <published>2021-02-02T03:07:53.000Z</published>
+    <updated>2021-02-02T03:25:16.422Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>git作为一款优秀的版本控制工具，值得每一个程序猿掌握。详细的介绍请查看 <a href="https://git-scm.com/"><strong>官网</strong></a> 介绍,这里简单贴一下：</p><blockquote><p>Git is a <strong>free</strong> and <strong>open source distributed version control system</strong> designed to handle everything from small to very large projects with speed and efficiency.</p></blockquote><blockquote><p>Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.</p></blockquote><h1 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h1><p>git的<a href="https://git-scm.com/downloads">下载链接</a>可以很容易地在官网找到，支持mac\windows\linux\unix等操作系统，并且官网上具有详细的安装步骤，对照安装就可以了。</p><h1 id="相关命令"><a href="#相关命令" class="headerlink" title="相关命令"></a>相关命令</h1><blockquote><p>git官网提供完备的<a href="https://git-scm.com/doc">文档</a>,包括手册、书籍和视频,还贴心地提供了中文版本，有机会一定要查看官方手册，这里我只是记录一下我经常使用的命令。</p></blockquote><h2 id="基础命令"><a href="#基础命令" class="headerlink" title="基础命令"></a>基础命令</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git log</span><br><span class="line">git status</span><br><span class="line">git add</span><br><span class="line">git commit -m &quot;&quot;</span><br><span class="line">git clone git-resp-link</span><br></pre></td></tr></table></figure><h2 id="将本地仓库和远程仓库关联"><a href="#将本地仓库和远程仓库关联" class="headerlink" title="将本地仓库和远程仓库关联"></a>将本地仓库和远程仓库关联</h2><h2 id="将本地仓库上传到远程仓库的特定分支"><a href="#将本地仓库上传到远程仓库的特定分支" class="headerlink" title="将本地仓库上传到远程仓库的特定分支"></a>将本地仓库上传到远程仓库的特定分支</h2><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="工具" scheme="https://wqlc.github.io/source/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://wqlc.github.io/2021/02/01/index/"/>
+    <id>https://wqlc.github.io/2021/02/01/index/</id>
+    <published>2021-02-01T13:07:19.040Z</published>
+    <updated>2021-02-01T13:07:19.040Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用github+hexo搭建个人博客</title>
+    <link href="https://wqlc.github.io/2021/02/01/%E4%BD%BF%E7%94%A8github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://wqlc.github.io/2021/02/01/%E4%BD%BF%E7%94%A8github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-02-01T02:44:44.000Z</published>
+    <updated>2021-02-02T03:06:31.489Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li>环境需要<ul><li>git(<a href="">查看安装</a>)</li><li>nodejs(<a href="">查看安装</a>)</li></ul></li></ul><blockquote><p><strong>github</strong> 作为一个优秀的开源平台，免费易用，且背靠微软这棵大树，简直壕无人性！我们可以使用GitHub更加愉快无限制地<strong>交友</strong>。<br><strong>hexo</strong> 是 <code>A fast, simple &amp; powerful blog framework</code>，速度快、支持markdown、快速部署且拥有众多插件支持的快速、简单且功能强大的博客框架</p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>最近CSDN搞得越来越花里胡哨，用的心累，于是打算搭建自己的博客系统。作为一个穷学生，首先希望能够拥有自己的域名，其次不要花钱，然后就是可以定制，选了一大圈，最终还是决定选择<a href="https://github.com/">github</a>+<a href="https://hexo.io/">hexo</a>来搭建自己的博客，本文主要用来记录具体的博客搭建过程，以及自己的一点心得体会。</p><hr><h1 id="github环境搭建"><a href="#github环境搭建" class="headerlink" title="github环境搭建"></a>github环境搭建</h1><h2 id="创建github账户"><a href="#创建github账户" class="headerlink" title="创建github账户"></a>创建github账户</h2><blockquote><p>已经有github账户的请跳到下一节</p></blockquote><ul><li><p>首先登陆<a href="https://github.com/">github</a><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/github1.png" alt="github首页"><br>点击右上角的<code>sign up</code>进入注册页面</p></li><li><p>注册一个github账号<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202103524.png" alt="注册github账号"><br>请记得验证邮箱</p></li><li><p>点击<code>sign in</code>使用刚刚注册时候的用户名和密码进行登陆<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202103529.png"></p></li></ul><h2 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h2><blockquote><p>使用github的用户名创建自己的仓库，如果你的github的用户名是<code>zhangsan</code>, 那么你新建的仓库的名字就是 <code>zhangsan.github.io</code>（其他的仓库名无效），后面你的博客的地址就是<code>https://zhangsan.github.io</code></p></blockquote><p>登陆github账号之后，可以通过右上角的<code>+</code>新建一个仓库，仓库的名字必须取名为：<code>用户名.github.io</code>。<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202103533.png" alt="新建仓库，注意仓库名字"></p><p><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202104734.png" alt="新建仓库，注意仓库名"></p><p>仓库建好之后，我们的博客网站就建成功了，我们可以把仓库使用git工具拉取到本地，然后新建一个index.html，里面写上对应的内容，如下所示，然后再推送到仓库中就可以了。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="meta-keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">&quot;en&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&quot;UTF-8&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width, initial-scale=1.0&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>Document<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p1</span>&gt;</span>Hello my blog<span class="tag">&lt;/<span class="name">p1</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><p>然后在浏览器中访问<code>用户名.github.io</code>就可以看到你刚刚写的网页了。</p><h2 id="配置SSH-key"><a href="#配置SSH-key" class="headerlink" title="配置SSH key"></a>配置SSH key</h2><p>我们可以通过用户名和密码来推送我们的代码，但是总归来说还是不太方便，而且也不太安全。使用ssh key使用非对称加密来确保我们账户的安全，同时可以方便我们提交我们的代码。</p><h3 id="配置过程"><a href="#配置过程" class="headerlink" title="配置过程"></a>配置过程</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure><p>然后一直回车，就会在用户目录下生成对应的公钥和私钥，对于类Unix用户，对应的文件一般在<code>~/.ssh/</code>目录下，对于windows用户，对应的文件一般在<code>C:/Users/电脑用户名/.ssh</code>目录下。使用记事本打开<code>id_rsa.pub</code>复制里面的内容。打开你的github，进入设置，添加你刚刚复制的公钥。<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202110026.png" alt="添加sshkey"><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210202110027.png" alt="添加sshkey"></p><h3 id="测试成功"><a href="#测试成功" class="headerlink" title="测试成功"></a>测试成功</h3><p>在命令行中输入下列命令，即可</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p>如果提示Are you sure you want to continue connecting (yes/no)?，输入yes，然后会看到：</p><blockquote><p>Hi ***! You’ve successfully authenticated, but GitHub does not provide shell access.</p></blockquote><p>此时说明ssh-key已经配置成功</p><h1 id="hexo-环境搭建"><a href="#hexo-环境搭建" class="headerlink" title="hexo 环境搭建"></a>hexo 环境搭建</h1><h2 id="hexo-简介"><a href="#hexo-简介" class="headerlink" title="hexo 简介"></a>hexo 简介</h2><h2 id="hexo-原理"><a href="#hexo-原理" class="headerlink" title="hexo 原理"></a>hexo 原理</h2><h2 id="hexo-安装"><a href="#hexo-安装" class="headerlink" title="hexo 安装"></a>hexo 安装</h2><h2 id="hexo-初始化"><a href="#hexo-初始化" class="headerlink" title="hexo 初始化"></a>hexo 初始化</h2><h2 id="hexo-新建文章"><a href="#hexo-新建文章" class="headerlink" title="hexo 新建文章"></a>hexo 新建文章</h2><h2 id="hexo-生成并且发布文章"><a href="#hexo-生成并且发布文章" class="headerlink" title="hexo 生成并且发布文章"></a>hexo 生成并且发布文章</h2><h2 id="hexo-常见命令"><a href="#hexo-常见命令" class="headerlink" title="hexo 常见命令"></a>hexo 常见命令</h2><h1 id="hexo-主题介绍"><a href="#hexo-主题介绍" class="headerlink" title="hexo 主题介绍"></a>hexo 主题介绍</h1><h2 id="hexo-主题更改"><a href="#hexo-主题更改" class="headerlink" title="hexo 主题更改"></a>hexo 主题更改</h2><h1 id="github-hexo-配置博客"><a href="#github-hexo-配置博客" class="headerlink" title="github+hexo 配置博客"></a>github+hexo 配置博客</h1><h2 id="备份hexo博客源代码"><a href="#备份hexo博客源代码" class="headerlink" title="备份hexo博客源代码"></a>备份hexo博客源代码</h2><h2 id="上传博客文章到github"><a href="#上传博客文章到github" class="headerlink" title="上传博客文章到github"></a>上传博客文章到github</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="个人博客" scheme="https://wqlc.github.io/source/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>抖音爬虫系列(1)：环境配置</title>
