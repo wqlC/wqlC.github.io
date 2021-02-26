@@ -253,6 +253,22 @@
               <span class="post-meta-item-text">阅读次数：</span>
               <span class="leancloud-visitors-count"></span>
             </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Changyan：</span>
+    
+    
+      <a title="changyan" href="/2021/01/31/%E6%8A%96%E9%9F%B3%E7%88%AC%E8%99%AB%E7%B3%BB%E5%88%97(1)%EF%BC%9A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/#SOHUCS" itemprop="discussionUrl">
+        <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2021/01/31/抖音爬虫系列(1)：环境配置/" itemprop="commentCount"></span>
+      </a>
+    
+  </span>
+  
+  
 
         </div>
       </header>
@@ -398,6 +414,11 @@
 
           </div>
           
+    
+  <div class="comments">
+    <div id="SOHUCS"></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -649,6 +670,20 @@
   
 
   
+
+  <script>
+  NexT.utils.loadComments(document.querySelector('#SOHUCS'), () => {
+    var appid = 'cyvknnJTj';
+    var conf = '1a55434abc7aaa68a6fcda8c204d58e1';
+    var width = window.innerWidth || document.documentElement.clientWidth;
+    if (width < 960) {
+      window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>');
+    } else {
+      var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})});
+    }
+  });
+  </script>
+  <script src="https://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
 
 </body>
 </html>
