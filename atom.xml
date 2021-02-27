@@ -6,7 +6,7 @@
   <link href="https://wqlc.github.io/atom.xml" rel="self"/>
   
   <link href="https://wqlc.github.io/"/>
-  <updated>2021-02-27T05:25:51.816Z</updated>
+  <updated>2021-02-27T14:42:23.462Z</updated>
   <id>https://wqlc.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用github+cdn+picGo搭建免费快速的图床</title>
+    <link href="https://wqlc.github.io/2021/02/27/%E4%BD%BF%E7%94%A8github-cdn-picGo%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%BF%AB%E9%80%9F%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://wqlc.github.io/2021/02/27/%E4%BD%BF%E7%94%A8github-cdn-picGo%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E5%BF%AB%E9%80%9F%E7%9A%84%E5%9B%BE%E5%BA%8A/</id>
+    <published>2021-02-27T14:00:13.000Z</published>
+    <updated>2021-02-27T14:42:23.462Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本文主要使用github+cdn+picGo搭建自己的免费易用的图床</p><a id="more"></a><p>现有的图床工具有很多，本文会在最后罗列一些易用的图床工具。但是浏览下来，多多少少都觉得现有的图床存在一些问题，包括费用问题、域名备案问题等等。<br>总之存在一些隐患，所以想着搭建自己的图床，并且不用考虑那么多问题，最重要的是：<strong>免费</strong>。</p><h2 id="创建github仓库"><a href="#创建github仓库" class="headerlink" title="创建github仓库"></a>创建github仓库</h2><p>首先创建github仓库</p><h2 id="现有的图床工具："><a href="#现有的图床工具：" class="headerlink" title="现有的图床工具："></a>现有的图床工具：</h2><ul><li><p><a href="https://portal.qiniu.com/">七牛云</a></p><ul><li>七牛云在国内是非常专业的CDN服务提供商以至于七牛云的速度非常快，同时支持较多的插件，提供免费的SSL证书，并且在你注册认证之后会送10GB的存储空间，每个月有20GB的流量（国内10GB，国外10GB）。</li><li>但是七牛云对于HTTPS是收费的，并且需要绑定自己的已经备案过的域名。虽然七牛云提供测试域名，但是30天后就会被回收掉。<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227221614.png" alt="七牛云"></li></ul></li><li><p><a href="https://www.upyun.com/">又拍云</a></p><ul><li>又拍云在用户注册的时候会宋10GB存储空间，每个月都会送15GB的HTTP和HTTPS流量，免费的SSL证书</li><li>但是又拍云需要自己有已经备案过的域名，并且需要你加入<em>又拍云联盟（给又拍云打广告）</em><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227221700.png" alt="又拍云"><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227221728.png" alt="如何使用又拍云"></li></ul></li><li><p><a href="https://sbimg.cn/">公益图床</a></p><ul><li>图床速度很快，长期使用需要注册</li><li>游客对图片大小有限制。登陆后2MB的限制好像，但是容易崩，如下图（原来是因为用了vpn所以图片上传不成功）<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227222140.png" alt="公益图床"><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227222521.png" alt="游客图片大小限制"><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227222537.png" alt="注册后上传图片出现莫名错误"></li></ul></li><li><p><a href="https://imgtu.com/">路过图床</a> ***** 5星推荐</p><ul><li>支持游客上传图片永久存储</li><li>支持全球CDN加速，速度快；支持HTTPS</li><li>图片大小限制10MB，基本满足要求</li><li>感觉还不错，估计网站模板和公益图床用的是一个。<br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227223203.png" alt="路过图床，你看和公益图床是不是很像"></li></ul></li><li><p><a href="https://sm.ms/">SM.MS</a></p><ul><li>支持游客上传图片永久存储</li><li>图片大小限制为5MB，一次最多上传10张，上传后支持删除</li><li>支持HTTPS</li><li>速度还可以<a href="https://i.loli.net/2021/02/27/RTxUtHprwncOyVq.png"><a href="https://i.loli.net/2021/02/27/RTxUtHprwncOyVq.png">图片测试</a></a><br><img src="https://cdn.jsdelivr.net/gh/wqlC/blogImages@main/blog/img/20210227224115.png" alt="SM.MS"></li></ul></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本文主要使用github+cdn+picGo搭建自己的免费易用的图床&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="工具" scheme="https://wqlc.github.io/source/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客结合DaoVoice实现在线联系功能</title>
