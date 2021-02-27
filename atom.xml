@@ -6,7 +6,7 @@
   <link href="https://wqlc.github.io/atom.xml" rel="self"/>
   
   <link href="https://wqlc.github.io/"/>
-  <updated>2021-02-27T03:30:27.224Z</updated>
+  <updated>2021-02-27T05:20:04.546Z</updated>
   <id>https://wqlc.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客结合DaoVoice实现在线联系功能</title>
+    <link href="https://wqlc.github.io/2021/02/27/Hexo%E5%8D%9A%E5%AE%A2%E7%BB%93%E5%90%88DaoVoice%E5%AE%9E%E7%8E%B0%E5%9C%A8%E7%BA%BF%E8%81%94%E7%B3%BB%E5%8A%9F%E8%83%BD/"/>
+    <id>https://wqlc.github.io/2021/02/27/Hexo%E5%8D%9A%E5%AE%A2%E7%BB%93%E5%90%88DaoVoice%E5%AE%9E%E7%8E%B0%E5%9C%A8%E7%BA%BF%E8%81%94%E7%B3%BB%E5%8A%9F%E8%83%BD/</id>
+    <published>2021-02-27T05:20:04.000Z</published>
+    <updated>2021-02-27T05:20:04.546Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>(新)抖音xg03免费生成接口</title>
