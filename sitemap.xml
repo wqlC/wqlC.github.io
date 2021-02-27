@@ -109,13 +109,6 @@
 
   
   <url>
-    <loc>https://wqlc.github.io/source/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wqlc.github.io/source/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
@@ -123,14 +116,14 @@
   </url>
   
   <url>
-    <loc>https://wqlc.github.io/source/tags/cdn/</loc>
+    <loc>https://wqlc.github.io/source/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wqlc.github.io/source/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://wqlc.github.io/source/tags/cdn/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -152,6 +145,13 @@
   
   <url>
     <loc>https://wqlc.github.io/source/tags/%E6%8A%96%E9%9F%B3/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wqlc.github.io/source/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
