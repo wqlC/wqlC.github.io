@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wqlc.github.io/Friends/index.html</loc>
+    
+    <lastmod>2021-02-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wqlc.github.io/2021/01/17/%E4%BD%BF%E7%94%A8cdn%E5%8A%A0%E9%80%9F/</loc>
     
     <lastmod>2021-02-26</lastmod>
@@ -130,6 +137,13 @@
   </url>
   
   <url>
+    <loc>https://wqlc.github.io/source/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wqlc.github.io/source/tags/python/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
@@ -145,13 +159,6 @@
   
   <url>
     <loc>https://wqlc.github.io/source/tags/%E6%8A%96%E9%9F%B3/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wqlc.github.io/source/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
