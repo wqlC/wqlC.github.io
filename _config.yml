@@ -4,10 +4,10 @@
 
 # Site
 title: 开啊福瑞
-subtitle: 'carefree'
+subtitle: 'kaifree'
 description: 'java, python, web, crawler, tools, sources' # 主要用于SEO，网站主要描述、关键词
 keywords: java, python, web, crawler, tools, sources
-author: youwu
+author: kaifree
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -99,7 +99,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: butterfly
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
